@@ -1,5 +1,5 @@
 
-# Tail Recovery
+# Tail Recovery (Anonymous Repository for double-blind review)
 
 ### Abstract
 
